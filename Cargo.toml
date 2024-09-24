@@ -1,5 +1,5 @@
 [package]
-name = "DNSoverTCP_D053"
+name = "dnsovertcp_do53"
 version = "0.1.0"
 edition = "2021"
 
